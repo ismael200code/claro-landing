@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://claro-app.netlify.app/sitemap.xml
